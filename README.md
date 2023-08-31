@@ -26,3 +26,8 @@ Please note that some data requires editing in the database so the user can incl
 ## Contributing to Mat-dp-database
 
 Contributions are welcome! 
+
+If you wish to include new information on material intensities of other technologies in the published version of the database, please [get in touch via e-mail](mailto:refficiency-enquiries@eng.cam.ac.uk) mentioning "Mat-dp-database" in the subject. If you have questions, need assistance or need better instructions for contributing, please let us know.
+
+## Acknowledgements
+The authors would like to thank other contributors to the database: Maaike E. Hakker (electricity generation), Hugh Thomas (transport), and Tatiana Vandermark (electricity transmission and distribution).
