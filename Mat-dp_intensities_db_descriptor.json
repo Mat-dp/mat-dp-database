@@ -1,0 +1,86 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "mat-dp-material-intensities",
+      "path": "Mat-dp_intensities_db.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "Technology category",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Technology name",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Technology description",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Technology primary purpose",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Material",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "Value type",
+            "type": "string",
+            "format": "default"
+          }
+        ]
+      }
+    }
+  ],
+  "keywords": [
+    "Mat-dp",
+    "materials",
+    "material intensities",
+    "energy systems",
+    " transport systems",
+    " open-access data",
+    "bulk materials",
+    "critical materials"
+  ],
+  "name": "Mat-dp_intensities_db",
+  "title": "Mat-dp intensities database",
+  "description": "This data package contains the material intensities used in Mat-dp-database for each of the relevant technologies.",
+  "homepage": "https://github.com/Mat-dp/mat-dp-database",
+  "contributors": [
+    {
+      "title": "Karla Cervantes Barron",
+      "role": "author"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ]
+}
