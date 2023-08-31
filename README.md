@@ -1,4 +1,7 @@
 # Mat-dp database
+
+[![DOI](https://zenodo.org/badge/685456625.svg)](https://zenodo.org/badge/latestdoi/685456625)
+
 Mat-dp database contains material intensities of different energy and transport technologies. It is part of the Mat-dp project, so it can be used to model material demand and other implications of material use alongside other Mat-dp tools.
 
 ## Structure
