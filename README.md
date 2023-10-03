@@ -34,3 +34,5 @@ If you wish to include new information on material intensities of other technolo
 
 ## Acknowledgements
 The authors would like to thank other contributors to the database: Maaike E. Hakker (electricity generation), Hugh Thomas (transport), and Tatiana Vandermark (electricity transmission and distribution).
+
+This material has been produced under the Climate Compatible Growth (CCG) programme, which is  funded by UK aid from the UK government. However, the views expressed herein do not necessarily reflect the UK government's official policies.
