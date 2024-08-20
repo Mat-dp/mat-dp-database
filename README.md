@@ -1,4 +1,7 @@
 # Mat-dp database
+
+[![DOI](https://zenodo.org/badge/685456625.svg)](https://zenodo.org/badge/latestdoi/685456625)
+
 Mat-dp database contains material intensities of different energy and transport technologies. It is part of the Mat-dp project, so it can be used to model material demand and other implications of material use alongside other Mat-dp tools.
 
 ## Structure
@@ -31,3 +34,5 @@ If you wish to include new information on material intensities of other technolo
 
 ## Acknowledgements
 The authors would like to thank other contributors to the database: Maaike E. Hakker (electricity generation), Hugh Thomas (transport), and Tatiana Vandermark (electricity transmission and distribution).
+
+This material has been produced under the Climate Compatible Growth (CCG) programme, which is  funded by UK aid from the UK government. However, the views expressed herein do not necessarily reflect the UK government's official policies.
